@@ -24,5 +24,6 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina. Você pode ba
 Para iniciar o servidor de desenvolvimento, execute:
 ```sh
 npm run dev
+```
 
 O servidor estará disponível em http://localhost:3000.
