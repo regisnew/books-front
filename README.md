@@ -10,7 +10,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina. Você pode ba
 
 1. Clone o repositório:
     ```sh
-    git clone <URL_DO_REPOSITORIO>
+    git clone https://github.com/regisnew/books-front
     cd books-front
     ```
 
