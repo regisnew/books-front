@@ -11,7 +11,7 @@ Certifique-se de ter o Node.js e o npm instalados em sua máquina. Você pode ba
 1. Clone o repositório:
     ```sh
     git clone <URL_DO_REPOSITORIO>
-    cd tracker
+    cd books-front
     ```
 
 2. Instale as dependências:
